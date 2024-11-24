@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athulrajbc05&label=Profile%20views&color=0e75b6&style=flat" alt="athulrajbc05" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack** to enhance my Web development Skills.
+- 🌱 I’m currently learning **MERN Stack & Gen AI** to enhance my Software Development Skills.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Athulrajbc05](https://github.com/Athulrajbc05)
 
