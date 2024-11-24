@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Athulrajbc05](https://github.com/Athulrajbc05)
 
-- 💬 Ask me about **Tech, Web development,....**
+- 💬 Ask me about **Tech, Web development, Data Science....**
 
 - 📫 How to reach me **athulrajbc05@gmail.com**
 
