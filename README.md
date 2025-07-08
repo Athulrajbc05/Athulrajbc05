@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Athulraj B C</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athulrajbc05&label=Profile%20views&color=0e75b6&style=flat" alt="athulrajbc05" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack & Gen AI** to enhance my Software Development Skills.
+- 🌱 I’m currently learning **Data Engineering Tools & Gen AI** to enhance my Software Development Skills.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Athulrajbc05](https://github.com/Athulrajbc05)
 
-- 💬 Ask me about **Tech, Web development, Data Science....**
+- 💬 Ask me about **Tech,Data Science....**
 
 - 📫 How to reach me **athulrajbc05@gmail.com**
 
