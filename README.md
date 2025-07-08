@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Athulraj B C</h1>
-<h3 align="center">A Passionate Data Engineering & GenAI Enthusiast from India</h3>
+<h3 align="center">A Passionate Data Engineering & AI Enthusiast from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=athulrajbc05&label=Profile%20views&color=0e75b6&style=flat" alt="athulrajbc05" />
@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently diving deep into **Data Engineering tools** and **Generative AI**, building on my strong foundation in Software Development.
+- 🌱 I’m currently diving deep into **Data Engineering tools** and **AI**, building on my strong foundation in Software Development.
 
 - 👨‍💻 Check out my work on [GitHub](https://github.com/Athulrajbc05)
 
