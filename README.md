@@ -37,12 +37,11 @@
 <h3 align="left">💻 Tech Stack</h3>
 <p>
   🛠️ Languages: Python, JavaScript, C/C++, SQL <br>
-  🧱 Frameworks/Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, React, Node.js, Express <br>
-  ☁️ Cloud & DevOps: AWS, GCP, Docker, Postman <br>
-  🗄️ Databases: MySQL, PostgreSQL, MongoDB, MSSQL, Hive <br>
+  🧱 Frameworks/Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, React, Node.js <br>
+  ☁️ Cloud & DevOps: AWS, GCP, Postman <br>
+  🗄️ Databases: MySQL, PostgreSQL, MongoDB, MSSQL, Hive(learning) <br>
   🛢️ Big Data Tools: Hadoop, Spark (learning), Airflow (learning) <br>
-  🧠 GenAI Tools: LangChain, OpenAI APIs, Hugging Face <br>
-  🧰 Others: Git, Linux, Figma, Arduino
+  🧰 Others: Git, Linux, Figma
 </p>
 
 ---
